@@ -3,7 +3,7 @@
 ***
 I am a marine scientist from Ecuador living in Hobart, Australia. I have worked previously researched sharks and fishes in the Galapagos 🦈🐠 but now I am completing a PhD looking at impacts of climate change on marine ecosystems of the Southern Ocean 🐧🐳 I have been involved in a few publications and you can find them [here](https://www.researchgate.net/profile/Denisse-Fierro-Arcos).
 
-I enjoying programming and I am often involved in the organisation or delivery of workshops and hackathons in Australia and Latin America. I am involved with the [R-Ladies](https://rladies.org/), [Datatas](http://datatas.com/), [OceanHackWeek](https://oceanhackweek.github.io/) and I am a certified [Carpentries](https://carpentries.org/) instructor.
+I am a `Python` and `R` progammer and I really enjoying writing scripts and help others develop their own. I am often involved in the organisation or delivery of workshops and hackathons in Australia and Latin America. I am involved with the [R-Ladies](https://rladies.org/), [Datatas](http://datatas.com/), [OceanHackWeek](https://oceanhackweek.github.io/) and I am a certified [Carpentries](https://carpentries.org/) instructor.
 
 ***
 **Who am I?**

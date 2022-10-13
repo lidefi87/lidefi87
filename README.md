@@ -1,6 +1,5 @@
 ### Hi there! 👋 My name is Denisse Fierro Arcos 🤓🐱‍👤
 
-<!--
 I am a marine scientist from Ecuador living in Hobart, Australia. I have worked previously researched sharks and fishes in the Galapagos 🦈🐠 but now I am completing a PhD looking at impacts of climate change on marine ecosystems of the Southern Ocean 🐧🐳 I have been involved in a few publications and you can find them [here](https://www.researchgate.net/profile/Denisse-Fierro-Arcos).
 
 I enjoying programming and I am often involved in the organisation or delivery of workshops and hackathons in Australia and Latin America. I am involved with the [R-Ladies](https://rladies.org/), [Datatas](http://datatas.com/), [OceanHackWeek](https://oceanhackweek.github.io/) and I am a certified [Carpentries](https://carpentries.org/) instructor.
@@ -15,4 +14,4 @@ I enjoying programming and I am often involved in the organisation or delivery o
 - ⚡ Fun fact: I am a massive dog lover ❤🐕 and I am competent at many sports (running, swimming, cycling, climbing, free- and scuba-diving, kayaking, boxing), but I do not excel in any of them 😅
 
 *También hablo español, así que si quieren colaborar o tienen preguntas sobre mi trabajo, no duden en escribirme*
--->
+

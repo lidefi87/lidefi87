@@ -11,7 +11,7 @@ I am a `Python` and `R` progammer and I really enjoying writing scripts and help
 - 🌱 I’m currently learning about Open Science and spatial analysis in `R` and `Python`.
 - 👯 I’m looking to collaborate on projects studying the effect of climate change on ecosystems (if sharks 🦈 are involved even better), or in any projects related to open science.
 - 💬 Ask me about how to make nice plots with `ggplot2` (this is by far my favorite package), or how to find environmental data (observations or models) for ecological research.
-- 📖 If you are interested in accessing any of my [publications](https://orcid.org/0000-0002-5039-6272) and you cannot access them, contact me and I will be more than happy to share it.
+- 📖 If you are interested in accessing any of my [publications](https://orcid.org/0000-0002-5039-6272) and you cannot access them, contact me and I will be more than happy to share them.
 - 📫 How to reach me: [@lidefi87](https://twitter.com/lidefi87) or [email](mailto:lidefi87@hotmail.com).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a massive dog lover ❤🐕 and I am competent at many sports (running, swimming, cycling, climbing, free- and scuba-diving, kayaking, boxing), but I do not excel in any of them 😅

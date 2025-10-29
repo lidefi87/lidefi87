@@ -9,9 +9,9 @@ I am a `Python` and `R` progammer and I really enjoying writing scripts and help
 
 ***
 **Who am I?**
-- 🔭 My PhD focuses on developing best practices in the use of ocean models to answer ecological questions, such as estimating the distribution of species or assessing the effects of climate change on marine ecosystems. This project focuses on the Southern Ocean, the smallest ocean on Earth, but one that has an inmense impact on the Earth's systems. The first chapter is already published (access it [here](http://dx.doi.org/10.1016/j.pocean.2023.103049)), the second chapter will be publish in late 2025 (see abstract [here](http://dx.doi.org/10.3354/meps14968)), and the third chapter is nearing completion.  
+- 🔭 My PhD focuses on developing best practices in the use of ocean models to answer ecological questions, such as estimating the distribution of species or assessing the effects of climate change on marine ecosystems. This project focuses on the Southern Ocean, the smallest ocean on Earth, but one that has an inmense impact on the Earth's systems. The first chapter is published in Progress in Oceanography and you can access it [here](http://dx.doi.org/10.1016/j.pocean.2023.103049), the second chapter is published in Marine Ecology Progress Series and can be downloaded [here](http://dx.doi.org/10.3354/meps14968), and the third chapter is nearing completion.  
 - 🌐 As part of my work for FishMIP, I was one of the main developers of Shiny apps directed at [marine ecosystem modellers](https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FishMIP_Input_Explorer/) and [policy makers](https://rstudio.global-ecosystem-model.cloud.edu.au/shiny/FAO_report_shiny/). 
-- 🌱 I’m currently learning about marine ecosystem model evaluation.
+- 🌱 I’m currently learning about evaluation of marine ecosystem models.  
 - 🤓 This year I was asked to review a scientific paper for the very first time.  
 - 👯 I’m looking to collaborate on projects studying the effect of climate change on ecosystems (if sharks 🦈 are involved even better). I am also interested in working in any projects related to open science, particularly if directed to Spanish speakers.
 - 💬 Ask me about how to make nice plots with `ggplot2` (this is by far my favorite package), or how to find environmental data (observations or models) for ecological research.
